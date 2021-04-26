@@ -1,0 +1,7 @@
+C:\Users\luize\Desktop\DIO.Bank\DIO.Bank\bin\Debug\DIO.Bank.exe.config
+C:\Users\luize\Desktop\DIO.Bank\DIO.Bank\bin\Debug\DIO.Bank.exe
+C:\Users\luize\Desktop\DIO.Bank\DIO.Bank\bin\Debug\DIO.Bank.pdb
+C:\Users\luize\Desktop\DIO.Bank\DIO.Bank\obj\Debug\DIO.Bank.csprojAssemblyReference.cache
+C:\Users\luize\Desktop\DIO.Bank\DIO.Bank\obj\Debug\DIO.Bank.csproj.CoreCompileInputs.cache
+C:\Users\luize\Desktop\DIO.Bank\DIO.Bank\obj\Debug\DIO.Bank.exe
+C:\Users\luize\Desktop\DIO.Bank\DIO.Bank\obj\Debug\DIO.Bank.pdb
